@@ -55,7 +55,7 @@ Average weekly sales across all 45 stores range from $37,160 (Store 33) to $301,
 
 
 Dashboard Preview
-
+<img width="1357" height="982" alt="image" src="https://github.com/user-attachments/assets/bdc54c0e-f6cf-4148-a629-0d43d5c2e417" />
 
 What I Learned
 This project taught me how to approach data analytically — starting with business questions, querying a real database with SQL, and presenting findings in a clear and visual way. It gave me practical experience with the end-to-end workflow a data analyst follows daily.
